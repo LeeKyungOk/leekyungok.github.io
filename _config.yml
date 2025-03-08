@@ -1,3 +1,11 @@
 theme: minima
 title: Lee Kyung Ok's Blog
 description: My personal blog and portfolio.
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
